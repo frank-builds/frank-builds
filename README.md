@@ -1,6 +1,6 @@
 # Hi, I'm Frank
 
-VP Product Manager with deep enterprise experience in financial services technology, product development, and large-scale operating environments — now building practical AI-enabled products, workflows, and automation through [Barinhall](https://www.barinhall.com).
+VP Product Manager with deep enterprise experience in financial services technology, product development, and large-scale operating environments - now building practical AI-enabled products, workflows, and automation through [Barinhall](https://www.barinhall.com).
 
 My background spans enterprise product management, technology modernization, and execution at scale. This GitHub brings that experience together with a newer hands-on focus on building internal tools, AI workflows, and product systems that turn ideas into shipped outcomes.
 
@@ -13,10 +13,10 @@ My background spans enterprise product management, technology modernization, and
 
 ## Current focus
 
-- **Enterprise product thinking** — product strategy, delivery discipline, and operating judgment shaped by large-scale financial services work
-- **Barinhall** — practical AI workflows, agents, and automation for small and mid-sized businesses
-- **AI-enabled building** — internal tools, structured outputs, content systems, and product experiments
-- **PM artifacts** — case studies, decision logs, templates, and operating frameworks
+- **Enterprise product thinking** - product strategy, delivery discipline, and operating judgment shaped by large-scale financial services work
+- **Barinhall** - practical AI workflows, agents, and automation for small and mid-sized businesses
+- **AI-enabled building** - internal tools, structured outputs, content systems, and product experiments
+- **PM artifacts** - case studies, decision logs, templates, and operating frameworks
 
 ## Featured work
 
