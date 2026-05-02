@@ -1,23 +1,27 @@
 # Hi, I'm Frank
 
-VP Product Manager, founder of [Barinhall](https://www.barinhall.com), and an AI-enabled builder focused on practical workflows, internal tools, and SMB-ready automation.
+VP Product Manager with deep enterprise experience in financial services technology, product development, and large-scale operating environments — now building practical AI-enabled products, workflows, and automation through [Barinhall](https://www.barinhall.com).
 
-This profile is where I share the work, systems, and thinking behind the products and workflows I’m building.
+My background spans enterprise product management, technology modernization, and execution at scale. This GitHub brings that experience together with a newer hands-on focus on building internal tools, AI workflows, and product systems that turn ideas into shipped outcomes.
 
-## What I do
+## What I bring
 
-- Build practical AI-enabled products and internal tools
-- Turn ambiguous business problems into scoped workflows and shipped outputs
-- Explore how AI is changing product strategy, operating models, and software economics
-- Create content, automations, and experiments that connect product management with execution
+- Enterprise product management experience shaped in complex financial services environments
+- A long-view understanding of technology delivery, modernization, governance, and execution at scale
+- Practical product leadership across strategy, prioritization, roadmap shaping, and operational delivery
+- A hands-on builder mindset using AI to accelerate prototyping, workflow design, and product execution
 
 ## Current focus
 
-- **Barinhall Delivery Hub** — internal delivery platform for structured outputs, exports, and workflow execution
-- **Barinhall Agents** — AI-assisted content and workflow agents supporting operational leverage
-- **PM case studies and operating artifacts** — decision logs, templates, and practical write-ups
+- **Enterprise product thinking** — product strategy, delivery discipline, and operating judgment shaped by large-scale financial services work
+- **Barinhall** — practical AI workflows, agents, and automation for small and mid-sized businesses
+- **AI-enabled building** — internal tools, structured outputs, content systems, and product experiments
+- **PM artifacts** — case studies, decision logs, templates, and operating frameworks
 
-## Featured repositories
+## Featured work
+
+### Enterprise product leadership
+This profile reflects a product management foundation built through years of work in enterprise financial services technology, where clarity, scale, stakeholder alignment, governance, and execution all matter.
 
 ### Barinhall Delivery Hub
 An internal platform designed to support structured delivery workflows, cloud-backed data, and exportable client-ready outputs.
@@ -26,13 +30,13 @@ An internal platform designed to support structured delivery workflows, cloud-ba
 A set of AI-enabled workflow agents used to support content creation, automation, and repeatable business processes.
 
 ### PM Case Studies
-Short product case studies, decision framing, and teardown-style analyses showing how product problems are structured and solved.
+Short product case studies, operating frameworks, and teardown-style analyses showing how product problems are structured and solved.
 
 ## Building philosophy
 
-The most interesting part of this moment in tech is that building useful software is no longer reserved for large teams or heavily funded startups. AI has dramatically lowered the cost of turning product ideas into working systems.
+The most important shift in technology right now is that experienced product leaders can move from directing builds to actively creating them. AI has dramatically lowered the cost of turning product ideas into working systems.
 
-That is the throughline of this GitHub: practical product management, real workflow design, and proof that execution matters more than theory.
+That makes this GitHub less about hobby coding and more about applied product execution: enterprise judgment, practical systems thinking, and real-world building.
 
 ## Connect
 
